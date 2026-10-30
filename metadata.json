@@ -1,0 +1,6 @@
+{
+  "name": "Delhi 3D - Architectural Monuments & Heritage Diorama",
+  "description": "Interactive Three.js 3D architectural exploration of Delhi's iconic monuments including India Gate, Qutub Minar, Lotus Temple, and Red Fort with procedural PBR rendering, exploded views, and diurnal lighting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
